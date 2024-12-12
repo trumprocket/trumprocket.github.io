@@ -8,14 +8,15 @@ Once I wake up and remember to update the git repo, you can find the code and do
 
 ## DISCLAIMER
 
-None of this is financial advice. Actually, you perhaps shouldn't rely on this for ANY source of income, much less a stable one!
-This shit's gonna be more unstable than a slut who you TOTALLY didn't ask to pay hushmoney to. Hey, just saying it as it is.
-I know for a fact sluts a people too!
+***None of this is financial advice.*** Actually, you perhaps ***shouldn't rely on this for ANY source of income, much less a stable one!***
+This shit's gonna be more unstable than a slut who you TOTALLY didn't ask to pay hushmoney to. That last part may or may not be
+fake news, but the fact that's going to be an ***extremely*** unstable source of income ***if any at all*** is not.
+I know for a fact sluts a people too, I know this much isn't fake news!
 
 Also, this bastardization of all things crypto is a parody of the current sate of affairs as of 2024-2028, and possibly beyond.
 We are obviously not related to Trump or Elon, so fuck off with your cap spreading lawyers Trump! This is obviously covered under the
-constitution as parody. If this isn't the finest slice of parody you seen I have 0 idea what is, it's literally the HUGEST parody shitcoin
-that we are taking to the HUGE leagues, not just the big leagues! We are making Sparksammy/Nodemixaholic pay for it, too; believe me!
+constitution as parody. ***If this isn't the finest slice of parody you seen I have 0 idea what is, it's literally the HUGEST parody shitcoin
+that we are taking to the HUGE leagues, not just the big leagues! We are making Sparksammy/Nodemixaholic pay for it, too; believe me!***
 
-So please please please don't sue this project, this project is just for fun and has nothing about profit; and we don't expect to make
-a profit. But who knows? This may be the next DogeCoin, but that's not likely at all
+So ***please please please don't sue this project, this project is just for fun and has nothing about profit; and we don't expect to make
+a profit.*** But who knows? This may be the next DogeCoin, ***but that's not gonna happen, i'm sorry!***
