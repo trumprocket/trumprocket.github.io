@@ -9,8 +9,8 @@ Once I wake up and remember to update the git repo, you can find the code and do
 ## DISCLAIMER
 
 ***None of this is financial advice.*** Actually, you perhaps ***shouldn't rely on this for ANY source of income, much less a stable one!***
-This shit's gonna be more unstable than a slut who you TOTALLY didn't ask to pay hushmoney to. That last part may or may not be
-fake news, but the fact that's going to be an ***extremely*** unstable source of income ***if any at all*** is not.
+This shit's gonna be more unstable than a slut who you *TOTALLY* didn't ask to pay hushmoney to. ***That last part may or may not be
+fake news, but the fact that's going to be an extremely unstable source of income if any at all is not.***
 I know for a fact sluts a people too, I know this much isn't fake news!
 
 Also, this bastardization of all things crypto is a parody of the current sate of affairs as of 2024-2028, and possibly beyond.
