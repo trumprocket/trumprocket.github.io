@@ -31,9 +31,9 @@ body { background-color:#DE6C6C; padding:0;  margin: 0; }
 .menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:17px;  }
 .textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
 .menustyle3 { position:absolute; width:133px; height:38px; left:200px;  }
-#text_594a0821 { position:absolute; left:4%; top:12%; width:650px; height:67px; background:none;  }
+#text_594a0821 { position:absolute; left:4%; top:12%; width:650px; height:57px; background:none;  }
 .textstyle4 { font-size:40pt; font-family:'Arial Black', Gadget, sans-serif; color:#000000;  }
-#text_63851a2 { position:absolute; left:5%; top:24%; width:584px; height:60px; background:none;  }
+#text_63851a2 { position:absolute; left:5%; top:25%; width:584px; height:60px; background:none;  }
 .textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
 #text_1c84632b { position:absolute; left:6%; top:42%; width:83px; height:27px; background:none;  }
 .textstyle6 { font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
@@ -53,6 +53,6 @@ body { background-color:#DE6C6C; padding:0;  margin: 0; }
 #text_70082cb5 { position:absolute; left:6%; top:103%; width:338px; height:57px; background:none;  }
 #text_517c0d28 { position:absolute; left:6%; top:110%; background:none;  }
 .textstyle8 { font-size:26pt; font-family:'Arial Black', Gadget, sans-serif; color:#000000; font-weight:bold;  }
-#text_4aba8bf3 { position:absolute; left:7%; top:117%; width:609px; height:295px; background:none;  }
-#text_52599920 { position:absolute; left:70%; top:176%; width:332px; height:17px; background-color:#5E2D2D;  }
+#text_4aba8bf3 { position:absolute; left:1%; top:79%; width:371px; height:455px; background:none;  }
+#text_52599920 { position:absolute; left:64%; top:216%; width:356px; height:17px; background-color:#5E2D2D;  }
 .textstyle9 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#E7AE21;  }
