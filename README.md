@@ -10,6 +10,7 @@ Once I wake up and remember to update the git repo, you can find the code and do
 
 None of this is financial advice. Actually, you perhaps shouldn't rely on this for ANY source of income, much less a stable one!
 This shit's gonna be more unstable than a slut who you TOTALLY didn't ask to pay hushmoney to. Hey, just saying it as it is.
+I know for a fact sluts a people too!
 
 Also, this bastardization of all things crypto is a parody of the current sate of affairs as of 2024-2028, and possibly beyond.
 We are obviously not related to Trump or Elon, so fuck off with your cap spreading lawyers Trump! This is obviously covered under the
