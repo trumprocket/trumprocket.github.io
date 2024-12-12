@@ -4,7 +4,7 @@ This coin will be HUGE and we're taking it to the big leagues, believe me.
 
 You can find our whitepaper type document [here.](https://github.com/trumprocket/toiletpaper) We call it the *Toilet Paper* or simply the *Brown Paper.*
 
-[Download here.](https://github.com/trumprocket/coin/releases)
+[Download here.](https://github.com/trumprocket/coin)
 
 ## DISCLAIMER
 
